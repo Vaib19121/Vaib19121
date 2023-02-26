@@ -6,6 +6,8 @@
 
 ##### I am Vaibhav Mehar from Mahrashtra, India. I have a passion for continuous learning and keeping up with the latest industry trends. I am always seeking new challenges and opportunities to expand my knowledge and skillset. In my free time, I enjoy listening music and exploring new places.
 
+##### I am currently learning Node Js and have curiosity to explore new things.
+
  ## Skills  <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width=32px /> 
 <div align="center">
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
